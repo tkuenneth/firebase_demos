@@ -4,5 +4,6 @@ target 'Zufallszahl' do
   use_frameworks!
   # Pods for Zufallszahl
   pod 'Firebase/Core'
+  pod 'Firebase/Functions'
 
 end
