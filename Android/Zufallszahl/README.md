@@ -6,7 +6,7 @@ This Android App shows how to use Firebase Functions.
 Diese Android App demonstriert die Nutzung von Firebase Functions.
 
 
-In order to be able to run this demo, you need to do two additional things.
+In order to be able to run this demo, you need to do three additional things.
 
 Damit diese Demo funktioniert, müssen Sie drei zusätzliche Dinge erledigen.
 
