@@ -27,7 +27,7 @@ Download all packages required by Firebase Functions.
 Laden Sie alle von Firebase Functions benötigten Pakete herunter.
 
 ~~~~
-cd ... /firebase_demos/Android/Zufallszahl/functions
+cd <basedir>/functions
 cd functions
 npm install
 ~~~~
